@@ -1,3 +1,7 @@
+# プロジェクト説明
+
+wiresharkのLuaの拡張DLLを作成してみるプロジェクトです。
+
 # 環境
 
 Visual Studio 2019
