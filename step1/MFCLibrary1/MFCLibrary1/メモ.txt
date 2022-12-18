@@ -1,0 +1,10 @@
+
+
+lia5.2.libのダウンロード先
+https://sourceforge.net/projects/luabinaries/files/5.2.4/Windows%20Libraries/Dynamic/
+
+
+
+
+
+
